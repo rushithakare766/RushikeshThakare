@@ -1,4 +1,4 @@
-                                                Hi 👋, I'm Rushikesh Thakare
+                                                ### Hi 👋, I'm Rushikesh Thakare
 
                                     A Data Science and competitive Programming Enthusiast
 
