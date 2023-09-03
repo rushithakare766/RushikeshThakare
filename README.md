@@ -1,6 +1,6 @@
-                                                            Hi 👋, I'm Rushikesh Thakare
+                                                Hi 👋, I'm Rushikesh Thakare
 
-                                                A Data Science and competitive Programming Enthusiast
+                                    A Data Science and competitive Programming Enthusiast
 
 Recent Computer Science Graduate | Seeking Software Development Opportunities
 🎓 Graduated in 2023 in Computer Engineering from Dr.Babasaheb Ambedkar Technoloical University,Lonere.
